@@ -57,13 +57,9 @@ def game_hash {
       ]
   },
   away:{ 
-    team_name:"Brooklyn Nets",
+    team_name:"Charlotte Hornets",
     colors: ["Black", "White"],
-    players: [
-    
-  }
-  
-      {player_name:"", 
+    players: [  {player_name:"", 
       number:, 
       shoe:, 
       points:, 
@@ -73,4 +69,9 @@ def game_hash {
       blocks:, 
       slam_dunks:,
       },
+      ]
+    
+  }
+  
+    
 }
