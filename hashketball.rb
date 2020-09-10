@@ -1,5 +1,5 @@
 # Write your code here!
-def game_hashketball {
+def game_hashketball{
   home:{
     team_name:"Brooklyn Nets",
     colors: ["Black", "White"],
